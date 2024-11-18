@@ -1,0 +1,31 @@
+body {
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  text-align: center;
+  background-image: url(background\ image\ for\ blackjack.jpg);
+  background-size: cover;
+  font-size: 2rem;
+  color: white;
+  font-weight: bold;
+}
+
+h1 {
+  color: goldenrod;
+}
+
+#message-el {
+  font-style: italic;
+}
+
+#btn-el {
+  color: #016f32;
+  width: 150px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  background-color: goldenrod;
+  font-size: 1rem;
+  font-weight: bold;
+  border-radius: 2px;
+  display: block;
+  margin: auto;
+}
